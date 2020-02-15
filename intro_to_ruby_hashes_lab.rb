@@ -10,7 +10,7 @@ def monopoly_with_second_tier
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
   # complexity.
-	animals = {:types => {:pets => cats: "greggory"}, {:farm => chicken: "greggy"}, {:wild => lion: "greg"}}
+	animals = {:types => {:pets => cats:}, {:farm => chicken:}, {:wild => lion:}}
 end
 
 def monopoly_with_third_tier
